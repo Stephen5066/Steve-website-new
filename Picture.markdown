@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: Page
 title: Picture of Me
 permalink: /picture/
 ---
-![Picture of Me](pic_steve.jpg)
+![Picture of Me][def]
+
+[def]: pic_steve.jpg
