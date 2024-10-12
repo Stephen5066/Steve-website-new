@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: Contact information
 permalink: /contact information/
+categories: contact information
 ---
 # Contact Information
 

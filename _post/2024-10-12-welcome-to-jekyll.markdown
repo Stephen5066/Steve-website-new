@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title:  Steve's Hobbies
 date:   2024-10-09 14:42:49 -0400
-categories: jekyll update
+categories: Hobbies
 ---
  I have a lot of different hobbies.  These hobbies are spending time with family and hanging with friends, hitting the gym, listening to music, and playing video games.
 
