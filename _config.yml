@@ -34,7 +34,7 @@ Phone Number   : 412-514-7304
 github_username:  Stephen5066
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
