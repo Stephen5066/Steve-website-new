@@ -1,29 +1,16 @@
 ---
 layout: Contact Information
-title:  "Steve's Portfolio"
+title:  Steve's Hobbies
 date:   2024-10-09 14:42:49 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ I have a lot of different hobbies.  These hobbies are spending time with family and hanging with friends, hitting the gym, listening to music, and playing video games.
 
-Jekyll requires blog post files to be named according to the following format:
+ I come from a family of 6 and have 3 other siblings.  I am of the youngest of 4 as I have 2 brothers and one 1 sister.  Its always to get time with family since I am the youngest and my other siblings moved out, and I am away at college so we never really get to see each other anymore, so I always value the time I get with them.  The same thing goes with my friends back home.  It is hard to balance college life with my college friends and back home friends. ![grad photo ](grad.jpg)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+ I started going to the gym in my senior year of highschool and it has impacted me in a lot of ways.  For one you get stronger which just comes for everyone who goes over a period of time.  Another thing I learned is discipline as you set goals, but goals come with obstacles to complete them.  It also was a way to spend time with my dad and brother.  We would always go together and we kept each other on track.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I listen to music all the time whether I be going to a class, or just with some friends.  My favorite genres of music are hip-hop and RnB.  My favorite hip-hop artists are Kanye West, and LUCKI.  While my favorite RnB artists are Frank Ocean, Brent Faiyaz.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+ In my spare time I will play video games.  I have played them ever since I was young and that hasn't changed.  My favorite games are Cyberpunk 2077, and Call of Duty Black ops 2.
