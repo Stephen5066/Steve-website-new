@@ -20,3 +20,5 @@ I listen to music all the time whether I be going to a class, or just with some 
 
  ![Graduation Photo](Graduation.jpg)
 
+
+[def]: grad_pic.jpg
