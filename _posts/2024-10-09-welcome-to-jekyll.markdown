@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: page
 title:  Steve's Hobbies
 date:   2024-10-09 14:42:49 -0400
 categories: jekyll update
