@@ -10,7 +10,9 @@ categories: Hobbies
 
  I started going to the gym in my senior year of highschool and it has impacted me in a lot of ways.  For one you get stronger which just comes for everyone who goes over a period of time.  Another thing I learned is discipline as you set goals, but goals come with obstacles to complete them.  It also was a way to spend time with my dad and brother.  We would always go together and we kept each other on track.
 
-I listen to music all the time whether I be going to a class, or just with some friends.  My favorite genres of music are hip-hop and RnB.  My favorite hip-hop artists are Kanye West, and LUCKI.  While my favorite RnB artists are Frank Ocean, Brent Faiyaz.
+I listen to music all the time whether I be going to a class, or just with some friends.  My favorite genres of music are hip-hop and RnB.  My favorite hip-hop artists are [Kanye West](https://www.youtube.com/watch?v=qAsHVwl-MU4), and [LUCKI](https://www.youtube.com/watch?v=Dn9A3Ri5DAs).  While my favorite RnB artists are [Frank Ocean](https://www.youtube.com/watch?v=AE005nZeF-A), [Brent Faiyaz](https://www.youtube.com/watch?v=MqR8ictp8Os).
+
+Click  the artists name to take you to my favorite song by each **artist** listed.
 
  In my spare time I will play video games.  I have played them ever since I was young and that hasn't changed.  My favorite games are Cyberpunk 2077, and Call of Duty Black ops 2.
 
