@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  Steve's Hobbies
 date:   2024-10-09 14:42:49 -0400
 categories: Hobbies

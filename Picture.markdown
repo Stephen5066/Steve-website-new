@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Picture of Me
 permalink: /picture/
 ---

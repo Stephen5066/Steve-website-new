@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Contact information
 permalink: /contact information/
 categories: contact information
