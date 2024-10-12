@@ -18,4 +18,4 @@ I listen to music all the time whether I be going to a class, or just with some 
  In my spare time I will play video games.  I have played them ever since I was young and that hasn't changed.  My favorite games are Cyberpunk 2077, and Call of Duty Black ops 2.
 
 
-[def]: grad_pic.jpg
+![Roberto Clemente Bridge](roberto_clemente_bridge.jpg)
