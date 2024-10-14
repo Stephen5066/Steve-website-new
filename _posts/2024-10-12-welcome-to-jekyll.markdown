@@ -24,6 +24,6 @@ Click  the artists name to take you to my favorite song by each **artist** liste
 
  In my spare time I will play video games.  I have played them ever since I was young and that hasn't changed.  My favorite games are Cyberpunk 2077, and Call of Duty Black ops 2.
 
- ![Graduation Photo](Graduation.jpg)
+ ![Graduation Photo](https://github.com/Stephen5066/Steve-website-new/blob/gh-pages/_posts/Graduation.jpg)
 
 

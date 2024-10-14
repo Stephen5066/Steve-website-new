@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stephen's Information
+title: Stephen's Portfolio
 email: neal01@allegheny.edu
 description: >- # this means to ignore newlines until "baseurl:"
  Hello! I am Stephen, current freshman at Allegheny College.
